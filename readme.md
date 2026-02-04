@@ -2,7 +2,7 @@
 # Examen Final - Aplicación Ionic Futurama
 
 ## Datos del estudiantes
-- Nombre: ______________________
+- Nombre: DANIELA ROMO MOYA
 
 ## 📋 Objetivo
 
@@ -91,7 +91,7 @@ La API retorna un objeto con la siguiente estructura:
 **IMPORTANTE:** Antes de empezar, instala Axios ejecutando:
 
 ```bash
-npm install axios
+npm install axios 
 ```
 
 ### Componentes Ionic Recomendados

@@ -28,7 +28,7 @@
 
 #message-list-item p {
   white-space: nowrap;
-  width: 95%;
+  width: 90%;
 }
 
 #message-list-item .date {
@@ -60,5 +60,5 @@
 }
 
 #message-list-item .dot-unread {
-  background: var(--ion-color-primary);
+  background: var(--ion-color-danger);
 }
